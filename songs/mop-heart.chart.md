@@ -1,9 +1,11 @@
 # Mop Heart
 
+Words and music by Kevin Peckham. © Kevin Peckham, all rights reserved.
+
 key: A, time: 3/4, tempo: 224
 
 ## Intro
-|A | D | E | A |
+| A | D | E | A |
 
 ## Verse
 | A | D | E | A | x4

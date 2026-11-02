@@ -1,9 +1,11 @@
 # Eat All the Clocks
 
-key: Em, time: 4/4, tempo:120
+Words and music by Kevin Peckham. © Kevin Peckham, all rights reserved.
+
+key: Em, time: 4/4, tempo: 120
 
 ## Part 1
-| Em Am | % | % | % | x3 
+| Em Am | % | % | % | x3
 | Em Am | % |
 
 ## Part 2
@@ -11,10 +13,10 @@ key: Em, time: 4/4, tempo:120
 | C | D | A | A |
 
 ## Verse
-| E5(7) | Am7 Am7 Am7  G5(7) | E5(7) | Am7 Am7 Am7  G5(7) |
-| E5(7) | Am7 Am7 Am7  G5(7) |
+| E5(7) | Am7 Am7 Am7 G5(7) | E5(7) | Am7 Am7 Am7 G5(7) |
+| E5(7) | Am7 Am7 Am7 G5(7) |
 
-## Chorus 
+## Chorus
 | D5 | A7 | E5(7) | E5(7) | x2
 
 ## Bridge
@@ -24,7 +26,6 @@ key: Em, time: 4/4, tempo:120
 ## Verse
 ## Chorus
 ## Chorus
-
 
 ## Outro
 | Em | ... |

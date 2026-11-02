@@ -1,6 +1,8 @@
 # Peaceful Dreams
 
-key: D , time: 4/4 , tempo: 145
+Words and music by Kevin Peckham. © Kevin Peckham, all rights reserved.
+
+key: D, time: 4/4, tempo: 145
 
 ## Intro
 | D7sus4 | % | % | % | x2

@@ -1,3 +1,7 @@
+# Letter Lands
+
+Words and music by Kevin Peckham. © Kevin Peckham, all rights reserved.
+
 key: F#, time: 4/4, tempo: 132
 
 ## Intro
@@ -7,7 +11,7 @@ key: F#, time: 4/4, tempo: 132
 | F#5(7) Esus4 | x8
 
 ## Chorus
-|  B5(7) | % | F#5(7) | % |  
+| B5(7) | % | F#5(7) | % |
 | C#5 | E5(7) | F#5(7) / / Esus4 | % |
 
 ## Verse
@@ -15,7 +19,7 @@ key: F#, time: 4/4, tempo: 132
 
 ## Bridge
 | D5(7) | % | E5(7) | % |
-| F#5(7) | %  | C#(7) | % |
+| F#5(7) | % | C#(7) | % |
 
 ## Verse
 ## Chorus
