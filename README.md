@@ -22,6 +22,6 @@ over `songs/`:
 To run them locally (Node 20.6 or later):
 
 ```sh
-npx -y @barmark/cli@0.1.5 check --strict songs
-npx -y @barmark/cli@0.1.5 format --check songs
+npx -y @barmark/cli@0.1.6 check --strict songs
+npx -y @barmark/cli@0.1.6 format --check songs
 ```
