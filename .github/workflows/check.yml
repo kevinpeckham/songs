@@ -17,6 +17,6 @@ jobs:
         with:
           node-version: 22
       - name: Every chart reads cleanly
-        run: npx -y @barmark/cli@0.3.0 check --strict --format github songs
+        run: npx -y @barmark/cli@0.4.0 check --strict --format github songs
       - name: Every chart is in standard form
-        run: npx -y @barmark/cli@0.3.0 format --check songs
+        run: npx -y @barmark/cli@0.4.0 format --check songs
